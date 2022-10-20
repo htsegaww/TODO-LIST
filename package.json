@@ -8,6 +8,9 @@
   },
   "author": "Henok",
   "license": "ISC",
+  "engines": {
+    "node": "v16.17.1"
+  },
   "dependencies": {
     "body-parser": "^1.20.1",
     "ejs": "^3.1.8",
