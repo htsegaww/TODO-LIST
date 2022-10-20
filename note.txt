@@ -1,0 +1,15 @@
+Scope in JavaScript refers to the accessibility or visibility of variables and expressions
+scope variables: local variables
+global variables: when you declare the variable from outside the function.
+var: declares a function-scoped or globally-scoped variable, optionally initializing it to a value.
+
+const: can't change the value. It is constant
+
+let: declaration declares a block-scoped local variable, optionally initializing it to a value.
+
+var, let and const are locals when they are used inside the function and they are global when they are used outside function
+
+if/else, for/while:
+  var is global whereas others are local.
+
+the folder "public" helps express to access js, css or images
